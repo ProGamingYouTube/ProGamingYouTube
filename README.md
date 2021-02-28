@@ -24,4 +24,4 @@
   </a>
 </p>
 
-**© [ProGamingYoutube](https://github.com/ProGamingYouTube)**
+**© [ProGamingYouTube](https://github.com/ProGamingYouTube)**

@@ -6,9 +6,6 @@
 
 ### Also You Can Join My Other Discord Server : [Click Here](https://dsc.gg/pro-op)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Pro Gaming.vercel.app/api/spotify-playing" alt="ProGamingYouTube Spotify Playing" width="350" />](https://open.spotify.com/user/	f7uk52grf8mp3pzjpqgn2c8da)
 
 ### Github Stats!
 

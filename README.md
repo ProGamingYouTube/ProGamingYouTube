@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ProGamingYouTube Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-Pro Gaming.vercel.app/api/spotify-playing" alt="ProGamingYouTube Spotify Playing" width="350" />](https://open.spotify.com/user/	f7uk52grf8mp3pzjpqgn2c8da)
 
 ### Github Stats!
 

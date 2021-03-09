@@ -1,5 +1,10 @@
 ### Hi there 👋
 ---
+
+<a href="https://emoji.gg/emoji/9504_purple_flame"><img src="https://emoji.gg/assets/emoji/9504_purple_flame.png" width="64px" height="64px" alt="purple_flame"></a> 
+
+### I Am Pro Gaming
+
 ### Join My YouTube Discord Server : [Click Here](https://dsc.gg/progamingyt)
 
 ### Also You Can Subscribe To My YouTube Channel : [Click Here](https://www.youtube.com/channel/UCyv4WTqcLaKPCXZa21BjI5g)
